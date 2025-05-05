@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task5\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|solutionrelative:task5\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task5\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|solutionrelative:task5\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task5\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|solutionrelative:task5\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task5\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|solutionrelative:task5\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task5\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218F6D64-D456-4849-8F6B-20E00C7B6610}|task5\\task5.csproj|solutionrelative:task5\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D9D90D-B733-435B-9FBA-DC6F7303909D}|task4\\task4.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task4\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D9D90D-B733-435B-9FBA-DC6F7303909D}|task4\\task4.csproj|solutionrelative:task4\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D9D90D-B733-435B-9FBA-DC6F7303909D}|task4\\task4.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D9D90D-B733-435B-9FBA-DC6F7303909D}|task4\\task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task\\subscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|solutionrelative:task\\subscriptioncreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|solutionrelative:task\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|solutionrelative:task\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|solutionrelative:task\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|solutionrelative:task\\managercall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|solutionrelative:task\\isubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|solutionrelative:task\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|solutionrelative:task\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|solutionrelative:task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task 2\\ismartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|solutionrelative:task 2\\ismartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task 2\\ipronesmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|solutionrelative:task 2\\ipronesmartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task 2\\ipronelaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|solutionrelative:task 2\\ipronelaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task 2\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|solutionrelative:task 2\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task 2\\iproneebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|solutionrelative:task 2\\iproneebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task 2\\inetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|solutionrelative:task 2\\inetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task 2\\ilaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|solutionrelative:task 2\\ilaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task 2\\iebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|solutionrelative:task 2\\iebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task 2\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|solutionrelative:task 2\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FD402-0D14-4085-BC3E-928854B35C3B}|task3\\task3.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task3\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FD402-0D14-4085-BC3E-928854B35C3B}|task3\\task3.csproj|solutionrelative:task3\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593FD402-0D14-4085-BC3E-928854B35C3B}|task3\\task3.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593FD402-0D14-4085-BC3E-928854B35C3B}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task 2\\ipronenetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C967CC-2D27-42E6-B623-BA89D8952172}|task 2\\task 2.csproj|solutionrelative:task 2\\ipronenetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|c:\\users\\kemir\\source\\repos\\kpz_2\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{866068DB-9719-40AF-B742-3453ECFFBF40}|task\\task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterDirector.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\CharacterDirector.cs",
+              "RelativeDocumentMoniker": "task5\\CharacterDirector.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\CharacterDirector.cs",
+              "RelativeToolTip": "task5\\CharacterDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:02:13.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\Character.cs",
+              "RelativeDocumentMoniker": "task5\\Character.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\Character.cs",
+              "RelativeToolTip": "task5\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:01:06.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:00:38.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\EnemyBuilder.cs",
+              "RelativeDocumentMoniker": "task5\\EnemyBuilder.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\EnemyBuilder.cs",
+              "RelativeToolTip": "task5\\EnemyBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:01:45.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeroBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\HeroBuilder.cs",
+              "RelativeDocumentMoniker": "task5\\HeroBuilder.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\HeroBuilder.cs",
+              "RelativeToolTip": "task5\\HeroBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:01:19.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICharacterBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\ICharacterBuilder.cs",
+              "RelativeDocumentMoniker": "task5\\ICharacterBuilder.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task5\\ICharacterBuilder.cs",
+              "RelativeToolTip": "task5\\ICharacterBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:00:51.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubscriptionCreator.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\SubscriptionCreator.cs",
+              "RelativeDocumentMoniker": "task\\SubscriptionCreator.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\SubscriptionCreator.cs",
+              "RelativeToolTip": "task\\SubscriptionCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:48:00.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Virus.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task4\\Virus.cs",
+              "RelativeDocumentMoniker": "task4\\Virus.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task4\\Virus.cs",
+              "RelativeToolTip": "task4\\Virus.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:58:51.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task4\\Program.cs",
+              "RelativeDocumentMoniker": "task4\\Program.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task4\\Program.cs",
+              "RelativeToolTip": "task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:58:37.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebSite.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\WebSite.cs",
+              "RelativeDocumentMoniker": "task\\WebSite.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\WebSite.cs",
+              "RelativeToolTip": "task\\WebSite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:48:12.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MobileApp.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\MobileApp.cs",
+              "RelativeDocumentMoniker": "task\\MobileApp.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\MobileApp.cs",
+              "RelativeToolTip": "task\\MobileApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:48:21.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PremiumSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\PremiumSubscription.cs",
+              "RelativeDocumentMoniker": "task\\PremiumSubscription.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\PremiumSubscription.cs",
+              "RelativeToolTip": "task\\PremiumSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:47:48.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagerCall.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\ManagerCall.cs",
+              "RelativeDocumentMoniker": "task\\ManagerCall.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\ManagerCall.cs",
+              "RelativeToolTip": "task\\ManagerCall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:48:29.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Isubscription.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\Isubscription.cs",
+              "RelativeDocumentMoniker": "task\\Isubscription.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\Isubscription.cs",
+              "RelativeToolTip": "task\\Isubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:47:01.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EducationalSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\EducationalSubscription.cs",
+              "RelativeDocumentMoniker": "task\\EducationalSubscription.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\EducationalSubscription.cs",
+              "RelativeToolTip": "task\\EducationalSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:47:38.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DomesticSubscription.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\DomesticSubscription.cs",
+              "RelativeDocumentMoniker": "task\\DomesticSubscription.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\DomesticSubscription.cs",
+              "RelativeToolTip": "task\\DomesticSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:47:29.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\Program.cs",
+              "RelativeDocumentMoniker": "task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\Program.cs",
+              "RelativeToolTip": "task 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:37:59.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISmartphone.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\ISmartphone.cs",
+              "RelativeDocumentMoniker": "task 2\\ISmartphone.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\ISmartphone.cs",
+              "RelativeToolTip": "task 2\\ISmartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:39:59.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProneSmartphone.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IProneSmartphone.cs",
+              "RelativeDocumentMoniker": "task 2\\IProneSmartphone.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IProneSmartphone.cs",
+              "RelativeToolTip": "task 2\\IProneSmartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:42:09.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProneLaptop.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IProneLaptop.cs",
+              "RelativeDocumentMoniker": "task 2\\IProneLaptop.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IProneLaptop.cs",
+              "RelativeToolTip": "task 2\\IProneLaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:41:42.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProneFactory.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IProneFactory.cs",
+              "RelativeDocumentMoniker": "task 2\\IProneFactory.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IProneFactory.cs",
+              "RelativeToolTip": "task 2\\IProneFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:43:23.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProneEBook.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IProneEBook.cs",
+              "RelativeDocumentMoniker": "task 2\\IProneEBook.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IProneEBook.cs",
+              "RelativeToolTip": "task 2\\IProneEBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:42:01.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "INetbook.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\INetbook.cs",
+              "RelativeDocumentMoniker": "task 2\\INetbook.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\INetbook.cs",
+              "RelativeToolTip": "task 2\\INetbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:39:32.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILaptop.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\ILaptop.cs",
+              "RelativeDocumentMoniker": "task 2\\ILaptop.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\ILaptop.cs",
+              "RelativeToolTip": "task 2\\ILaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:39:15.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEBook.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IEBook.cs",
+              "RelativeDocumentMoniker": "task 2\\IEBook.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IEBook.cs",
+              "RelativeToolTip": "task 2\\IEBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:39:45.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDeviceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IDeviceFactory.cs",
+              "RelativeDocumentMoniker": "task 2\\IDeviceFactory.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IDeviceFactory.cs",
+              "RelativeToolTip": "task 2\\IDeviceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:40:57.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task3\\Authenticator.cs",
+              "RelativeDocumentMoniker": "task3\\Authenticator.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task3\\Authenticator.cs",
+              "RelativeToolTip": "task3\\Authenticator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:55:49.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task3\\Program.cs",
+              "RelativeToolTip": "task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:55:20.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProneNetbook.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IProneNetbook.cs",
+              "RelativeDocumentMoniker": "task 2\\IProneNetbook.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task 2\\IProneNetbook.cs",
+              "RelativeToolTip": "task 2\\IProneNetbook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:41:52.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\Program.cs",
+              "RelativeDocumentMoniker": "task\\Program.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\KPZ_2\\task\\Program.cs",
+              "RelativeToolTip": "task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:23:44.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

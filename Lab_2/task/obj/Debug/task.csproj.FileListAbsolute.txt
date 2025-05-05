@@ -1,0 +1,7 @@
+C:\Users\kemir\source\repos\KPZ_2\task\bin\Debug\task.exe.config
+C:\Users\kemir\source\repos\KPZ_2\task\bin\Debug\task.exe
+C:\Users\kemir\source\repos\KPZ_2\task\bin\Debug\task.pdb
+C:\Users\kemir\source\repos\KPZ_2\task\obj\Debug\task.csproj.AssemblyReference.cache
+C:\Users\kemir\source\repos\KPZ_2\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+C:\Users\kemir\source\repos\KPZ_2\task\obj\Debug\task.exe
+C:\Users\kemir\source\repos\KPZ_2\task\obj\Debug\task.pdb

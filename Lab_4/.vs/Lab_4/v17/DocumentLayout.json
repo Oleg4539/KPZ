@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemir\\source\\repos\\Lab_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE245124-3E65-4156-8C75-35E6499C7EFD}|task_5\\task_5.csproj|c:\\users\\kemir\\source\\repos\\lab_4\\task_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE245124-3E65-4156-8C75-35E6499C7EFD}|task_5\\task_5.csproj|solutionrelative:task_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE245124-3E65-4156-8C75-35E6499C7EFD}|task_5\\task_5.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_5\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE245124-3E65-4156-8C75-35E6499C7EFD}|task_5\\task_5.csproj|solutionrelative:task_5\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE245124-3E65-4156-8C75-35E6499C7EFD}|task_5\\task_5.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_5\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE245124-3E65-4156-8C75-35E6499C7EFD}|task_5\\task_5.csproj|solutionrelative:task_5\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE245124-3E65-4156-8C75-35E6499C7EFD}|task_5\\task_5.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_5\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE245124-3E65-4156-8C75-35E6499C7EFD}|task_5\\task_5.csproj|solutionrelative:task_5\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EAE56-5821-485E-BB88-B3E00506FCA9}|task_4\\task_4.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EAE56-5821-485E-BB88-B3E00506FCA9}|task_4\\task_4.csproj|solutionrelative:task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EAE56-5821-485E-BB88-B3E00506FCA9}|task_4\\task_4.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EAE56-5821-485E-BB88-B3E00506FCA9}|task_4\\task_4.csproj|solutionrelative:task_4\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EAE56-5821-485E-BB88-B3E00506FCA9}|task_4\\task_4.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\urlimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EAE56-5821-485E-BB88-B3E00506FCA9}|task_4\\task_4.csproj|solutionrelative:task_4\\urlimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EAE56-5821-485E-BB88-B3E00506FCA9}|task_4\\task_4.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\fileimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EAE56-5821-485E-BB88-B3E00506FCA9}|task_4\\task_4.csproj|solutionrelative:task_4\\fileimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465EAE56-5821-485E-BB88-B3E00506FCA9}|task_4\\task_4.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\iimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465EAE56-5821-485E-BB88-B3E00506FCA9}|task_4\\task_4.csproj|solutionrelative:task_4\\iimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3DCCC3-0C07-4E31-9FAB-0AE85A7A0070}|task_3\\task_3.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3DCCC3-0C07-4E31-9FAB-0AE85A7A0070}|task_3\\task_3.csproj|solutionrelative:task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3DCCC3-0C07-4E31-9FAB-0AE85A7A0070}|task_3\\task_3.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3DCCC3-0C07-4E31-9FAB-0AE85A7A0070}|task_3\\task_3.csproj|solutionrelative:task_3\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3DCCC3-0C07-4E31-9FAB-0AE85A7A0070}|task_3\\task_3.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\mouseoverlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3DCCC3-0C07-4E31-9FAB-0AE85A7A0070}|task_3\\task_3.csproj|solutionrelative:task_3\\mouseoverlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3DCCC3-0C07-4E31-9FAB-0AE85A7A0070}|task_3\\task_3.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\ieventlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3DCCC3-0C07-4E31-9FAB-0AE85A7A0070}|task_3\\task_3.csproj|solutionrelative:task_3\\ieventlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C273F1-9A2C-466E-9AF8-14B7C8B0B71C}|task_2\\task_2.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C273F1-9A2C-466E-9AF8-14B7C8B0B71C}|task_2\\task_2.csproj|solutionrelative:task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|solutionrelative:task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C273F1-9A2C-466E-9AF8-14B7C8B0B71C}|task_2\\task_2.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\runway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C273F1-9A2C-466E-9AF8-14B7C8B0B71C}|task_2\\task_2.csproj|solutionrelative:task_2\\runway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C273F1-9A2C-466E-9AF8-14B7C8B0B71C}|task_2\\task_2.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C273F1-9A2C-466E-9AF8-14B7C8B0B71C}|task_2\\task_2.csproj|solutionrelative:task_2\\aircraft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C273F1-9A2C-466E-9AF8-14B7C8B0B71C}|task_2\\task_2.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\commandcentre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C273F1-9A2C-466E-9AF8-14B7C8B0B71C}|task_2\\task_2.csproj|solutionrelative:task_2\\commandcentre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\supporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|solutionrelative:task_1\\supporthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\level4support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|solutionrelative:task_1\\level4support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\level3support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|solutionrelative:task_1\\level3support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\level2support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|solutionrelative:task_1\\level2support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\level1support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7025AC6-4122-4500-96A7-6645783B2E4E}|task_1\\task_1.csproj|solutionrelative:task_1\\level1support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextEditor.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_5\\TextEditor.cs",
+              "RelativeDocumentMoniker": "task_5\\TextEditor.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_5\\TextEditor.cs",
+              "RelativeToolTip": "task_5\\TextEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:07:39.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_5\\Memento.cs",
+              "RelativeDocumentMoniker": "task_5\\Memento.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_5\\Memento.cs",
+              "RelativeToolTip": "task_5\\Memento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:07:30.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextDocument.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_5\\TextDocument.cs",
+              "RelativeDocumentMoniker": "task_5\\TextDocument.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_5\\TextDocument.cs",
+              "RelativeToolTip": "task_5\\TextDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:07:22.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_5\\Program.cs",
+              "RelativeDocumentMoniker": "task_5\\Program.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_5\\Program.cs",
+              "RelativeToolTip": "task_5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:07:13.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\Image.cs",
+              "RelativeDocumentMoniker": "task_4\\Image.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\Image.cs",
+              "RelativeToolTip": "task_4\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:06:41.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UrlImageLoader.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\UrlImageLoader.cs",
+              "RelativeDocumentMoniker": "task_4\\UrlImageLoader.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\UrlImageLoader.cs",
+              "RelativeToolTip": "task_4\\UrlImageLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:06:32.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\Program.cs",
+              "RelativeDocumentMoniker": "task_4\\Program.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\Program.cs",
+              "RelativeToolTip": "task_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:05:57.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileImageLoader.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\FileImageLoader.cs",
+              "RelativeDocumentMoniker": "task_4\\FileImageLoader.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\FileImageLoader.cs",
+              "RelativeToolTip": "task_4\\FileImageLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:06:20.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IImageLoader.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\IImageLoader.cs",
+              "RelativeDocumentMoniker": "task_4\\IImageLoader.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_4\\IImageLoader.cs",
+              "RelativeToolTip": "task_4\\IImageLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:06:06.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MouseOverListener.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\MouseOverListener.cs",
+              "RelativeDocumentMoniker": "task_3\\MouseOverListener.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\MouseOverListener.cs",
+              "RelativeToolTip": "task_3\\MouseOverListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:05:22.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\Button.cs",
+              "RelativeDocumentMoniker": "task_3\\Button.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\Button.cs",
+              "RelativeToolTip": "task_3\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:05:10.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\Program.cs",
+              "RelativeDocumentMoniker": "task_3\\Program.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\Program.cs",
+              "RelativeToolTip": "task_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:04:41.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEventListener.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\IEventListener.cs",
+              "RelativeDocumentMoniker": "task_3\\IEventListener.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_3\\IEventListener.cs",
+              "RelativeToolTip": "task_3\\IEventListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:04:53.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Aircraft.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\Aircraft.cs",
+              "RelativeDocumentMoniker": "task_2\\Aircraft.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\Aircraft.cs",
+              "RelativeToolTip": "task_2\\Aircraft.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:02:11.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommandCentre.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\CommandCentre.cs",
+              "RelativeDocumentMoniker": "task_2\\CommandCentre.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\CommandCentre.cs",
+              "RelativeToolTip": "task_2\\CommandCentre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:01:57.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\Program.cs",
+              "RelativeDocumentMoniker": "task_2\\Program.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\Program.cs",
+              "RelativeToolTip": "task_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:01:47.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\Program.cs",
+              "RelativeDocumentMoniker": "task_1\\Program.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\Program.cs",
+              "RelativeToolTip": "task_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:33:51.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Runway.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\Runway.cs",
+              "RelativeDocumentMoniker": "task_2\\Runway.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_2\\Runway.cs",
+              "RelativeToolTip": "task_2\\Runway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:02:22.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Level4Support.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\Level4Support.cs",
+              "RelativeDocumentMoniker": "task_1\\Level4Support.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\Level4Support.cs",
+              "RelativeToolTip": "task_1\\Level4Support.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:00:37.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SupportHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\SupportHandler.cs",
+              "RelativeDocumentMoniker": "task_1\\SupportHandler.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\SupportHandler.cs",
+              "RelativeToolTip": "task_1\\SupportHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:59:43.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Level3Support.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\Level3Support.cs",
+              "RelativeDocumentMoniker": "task_1\\Level3Support.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\Level3Support.cs",
+              "RelativeToolTip": "task_1\\Level3Support.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:00:25.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Level2Support.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\Level2Support.cs",
+              "RelativeDocumentMoniker": "task_1\\Level2Support.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\Level2Support.cs",
+              "RelativeToolTip": "task_1\\Level2Support.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:00:10.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Level1Support.cs",
+              "DocumentMoniker": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\Level1Support.cs",
+              "RelativeDocumentMoniker": "task_1\\Level1Support.cs",
+              "ToolTip": "C:\\Users\\kemir\\source\\repos\\Lab_4\\task_1\\Level1Support.cs",
+              "RelativeToolTip": "task_1\\Level1Support.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:59:57.845Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
